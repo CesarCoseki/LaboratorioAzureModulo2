@@ -1,7 +1,7 @@
 # LaboratorioAzureModulo2
 Estudo/Laboratório DIO de Azure Ai, modulo 2
 
- - 
+ - Seguindo a documentação refiz os passos da instrutora alem de explorar um pouco mais a ferramenta, prints dos processos abaixo:
 
 ![image](https://github.com/CesarCoseki/LaboratorioAzureModulo2/assets/142443953/3771e0cd-8432-4dc4-94b7-8b3c5c30009a)
 
